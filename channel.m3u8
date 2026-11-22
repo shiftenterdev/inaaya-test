@@ -1,4 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="2" tvg-id="espn.nl-1" tvg-name="ESPN NL 1" group-title="TV 2",ESPN NL 1
+#EXTINF:-1 tvg-chno="1" tvg-id="espn.nl-1" tvg-name="ESPN NL 1" group-title="TV 2",ESPN NL 1
 https://sportsbite.org/247/espn1nl
+
+#EXTINF:-1 tvg-chno="2" tvg-id="espn.nl-2" tvg-name="ESPN NL 1" group-title="TV 2",ESPN NL 2
+https://sportsbite.org/247/espn2nl
+
+#EXTINF:-1 tvg-chno="3" tvg-id="espn.nl-3" tvg-name="ESPN NL 1" group-title="TV 2",ESPN NL 3
+https://sportsbite.org/247/espn3nl
+
+#EXTINF:-1 tvg-chno="3" tvg-id="ziggo.nl" tvg-name="Ziggo Sports 1" group-title="TV 2",Ziggo Sports 1
+https://sportsbite.org/247/ziggosport
+
+#EXTINF:-1 tvg-chno="3" tvg-id="ziggo.nl-2" tvg-name="Ziggo Sports 2" group-title="TV 2",Ziggo Sports 2
+https://sportsbite.org/247/ziggosport2
+
+#EXTINF:-1 tvg-chno="3" tvg-id="ziggo.nl-3" tvg-name="Ziggo Sports 3" group-title="TV 2",Ziggo Sports 3
+https://sportsbite.org/247/ziggosport3
